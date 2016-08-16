@@ -23,8 +23,11 @@ public class SingleNode<T> {
 	public void setNext(SingleNode<T> next) {
 		this.next = next;
 	}
-	
-	
-	
-	
+
+
+
+
+
+
+
 }
