@@ -33,4 +33,5 @@ public class DoubleNode<T> {
 	public void setNext(DoubleNode<T> next) {
 		this.next = next;
 	}
+	
 }
