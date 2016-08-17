@@ -24,4 +24,8 @@ public class SingleNode<T> {
 		this.next = next;
 	}
 
+
+
+
+
 }
